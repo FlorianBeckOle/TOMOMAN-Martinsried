@@ -1,5 +1,5 @@
-TOMOgram MANager v0.89
-WW 06-2022
+TOMOgram MANager v0.9
+Sagar Khavnekar, William Wan 2023
 
 
 Short Guide 
@@ -26,3 +26,9 @@ Compile using compile_tomoman(target_dir), where target_dir is where place the c
 To run compiled TOMOMAN, you need to set an environmental $TOMOMANHOME that points to the exec/ subfolder. In the exec/bash/ folder are 
 the run scripts. Also, remember to update the matlabRoot parameter in the exec/lib/tomoman_config.sh file.
 
+LICENSE
+TOMOMAN is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
